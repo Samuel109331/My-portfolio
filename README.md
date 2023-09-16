@@ -11,4 +11,6 @@ For mobile
 
 
 ![screenshot2](https://github.com/Samuel109331/My-portfolio/assets/60266765/f3f1b68f-6b94-4c51-b8ba-5ee327b15bac)
+
+
 site  https://samuel-getachew.netlify.app
