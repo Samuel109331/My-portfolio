@@ -1,6 +1,9 @@
 # My-portfolio
 A simple about me page with html css and javascript
-For PC 
+For PC
+
+
+
 ![screenshot1](https://github.com/Samuel109331/My-portfolio/assets/60266765/63a5ff73-67c3-4b3c-86f6-7c2abcbc78d3)
 For mobile
 
