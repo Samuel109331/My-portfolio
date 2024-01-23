@@ -1,5 +1,5 @@
 window.addEventListener("DOMContentLoaded",() => {
-    var url = "https://api.github.com/users/Samuel109331/repos"
+    var url = "https://api.github.com/users/sami9644/repos"
     fetch(url)
     .then(res => res.json())
     .then((data) => {
